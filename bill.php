@@ -8,21 +8,19 @@
     <title>Waterco/Member</title>
 </head>
 <body>
-    <!-- <nav>
-        <a href="">logout</a>
-    </nav> -->
     <div class="container">
         <div class="nav">
             <h1>WATERco</h1>
             <hr>
             <ul>
-                <li><a href="member.html">Members</a></li>
-                <li><a href="premise.html">Premises</a></li>
-                <li><a href="bill.html">Bills</a></li>
-                <li><a href="payment.html">Payments</a></li>
-                <li><a href="route.html">Routes</a></li>
-                <li><a href="user.html">Users</a></li>
-            </ul>
+                <li><a href="member.php">Members</a></li>
+                <li><a href="premise.php">Premises</a></li>
+                <li><a href="bill.php">Bills</a></li>
+                <li><a href="payment.php">Payments</a></li>
+                <li><a href="route.php">Routes</a></li>
+                <li><a href="user.php">Users</a></li><br><br><br><br><br><br><br><br><br>
+                <li><a href="index.php">LogOut</a></li>
+            </ul> 
         </div>
         <div class="body-part">
             <div class="insertion">
